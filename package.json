@@ -1,0 +1,14 @@
+{
+  "name": "app-root-issue-17-module",
+  "version": "0.0.1",
+  "description": "Demonstration of https://github.com/inxilpro/node-app-root-path/issues/17",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Heath Morrison <heath@itruns.co> (http://itruns.co)",
+  "license": "ISC",
+  "dependencies": {
+    "app-root-path": "^1.3.0"
+  }
+}
